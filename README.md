@@ -5,5 +5,7 @@ Hey, my name is Ben, I graduated from Warwick in 2025 with the aim to enter data
 ### Interests & Hobbies
 
   🏎️ Car Enthusiast
+  
   🖥️ Gaming & Esports
+  
   👨🏻‍🔬 Physics

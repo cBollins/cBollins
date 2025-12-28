@@ -1,5 +1,7 @@
 # 👋 Ben Collins
+
 **BSc Mathematics & Physics (UoW 2025)**
+
 **AI / ML Intern @ Kwantu**
 
 My background in maths and physics enforces an evidence-based approach to problem solving. I believe in pairing well-reasoned creativity with thorough evaluation.

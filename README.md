@@ -1,11 +1,20 @@
-## BSc Maths and Physics | AI/ML Project Intern w/Kwantu
+# 👋 Ben Collins
+**BSc Mathematics & Physics (UoW 2025)**
+**AI / ML Intern @ Kwantu**
 
-Hey, my name is Ben, I graduated from Warwick in 2025 with the aim to enter data science.
+My background in maths and physics enforces an evidence-based approach to problem solving. I believe in pairing well-reasoned creativity with thorough evaluation.
 
-### Interests & Hobbies
+---
 
-  🏎️ Car Enthusiast
-  
-  🖥️ Gaming & Esports
-  
-  👨🏻‍🔬 Physics
+## 🔎 Interests
+- Machine Learning & Applied AI
+- Data analysis, modelling & visualisation
+- Maintaining maths & physics curiosity
+- Car enthusiast
+
+---
+
+## ⛏️ Tools
+- **Languages**: Python · SQL
+- **Data / ML**: Jupyter · Matplotlib · Seaborn
+- **Other**: Git · LaTeX · OpenCV
